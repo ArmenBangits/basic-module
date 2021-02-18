@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/ArmenBangits/basic-module.git
 git rm -rf .git
-git clone '--your-own-git-repository--'
+git remote add origin '--your-own-git-repository--'
 ```
 
 ## License
